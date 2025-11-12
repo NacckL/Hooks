@@ -73,4 +73,7 @@ Regra CSS: background: var(--bg);
 Variável Usada: --bg
 •
 Trecho de Código (Linhas 1-2 e 17 de indicators-index.css):
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa8f63a (formulario2)
